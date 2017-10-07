@@ -1,0 +1,24 @@
+18:37:39:111	c7444b80	args: -epool eu1.ethermine.org:4444 -ewal 0x153131DFbdBEEdc9dCB1A78c4121A2351762e35E.M0000 -epsw x -di 012345 
+18:37:39:111	c7444b80	
+18:37:39:111	c7444b80	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+18:37:39:111	c7444b80	บ      Claymore's Dual ETH + DCR/SC/LBC/PASC GPU Miner v9.8      บ
+18:37:39:111	c7444b80	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+18:37:39:111	c7444b80	
+18:37:39:312	c7444b80	ETH: 1 pool is specified
+18:37:39:312	c7444b80	Main Ethereum pool is eu1.ethermine.org:4444
+18:37:39:312	c7444b80	DCR: 0 pool is specified
+18:37:40:689	c7444b80	OpenCL platform: NVIDIA CUDA
+18:37:40:689	c7444b80	AMD OpenCL platform not found 
+18:37:42:010	c7444b80	CUDA initializing...
+
+18:37:42:010	c7444b80	NVIDIA Cards available: 3 
+18:37:42:010	c7444b80	CUDA Driver Version/Runtime Version: 8.0/8.0
+18:37:42:011	c7444b80	GPU #0: GeForce GTX 1070, 8106 MB available, 15 compute units, capability: 6.1
+
+18:37:42:011	c7444b80	GPU #1: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+18:37:42:013	c7444b80	GPU #2: GeForce GTX 1070, 8114 MB available, 15 compute units, capability: 6.1
+
+18:37:42:013	c7444b80	Total cards: 3 
+18:37:44:413	c7444b80	No AMD cards in the list, ADL library will not be used.
+18:37:45:634	c7444b80	NVML version: 8.375.66

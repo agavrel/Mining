@@ -1,0 +1,6 @@
+export GPU_FORCE_64BIT_PTR=0
+export GPU_MAX_HEAP_SIZE=100
+export GPU_USE_SYNC_OBJECTS=1
+export GPU_MAX_ALLOC_PERCENT=100
+export GPU_SINGLE_ALLOC_PERCENT=100
+./Claymore\ 9.8/ethdcrminer64 -epool eu1.ethermine.org:4444 -ewal 0x153131DFbdBEEdc9dCB1A78c4121A2351762e35E.M0000 -epsw x -di 012345
